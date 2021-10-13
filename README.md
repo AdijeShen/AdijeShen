@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdijeShen
 - 👀 I’m interested in Cryptography
 - 🌱 I’m currently learning Homomorphic Encryption
-- 💞️ I’m looking to collaborate on ...
 - 📫 Feel free to mail me adijeshen@qq.com
 
 <!---

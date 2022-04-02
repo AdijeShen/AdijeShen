@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdijeShen
 - 👀 I’m interested in Cryptography
-- 🌱 I’m currently learning Homomorphic Encryption
+- 🌱 I’m currently learning Homomorphic Encryption and Zero Knowledge Proof
 - 📫 Feel free to mail me adijeshen@qq.com
 
 <!---
